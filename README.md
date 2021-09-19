@@ -1,16 +1,16 @@
-#CSPFinder
+# CSPFinder
 
 
 CSPFinder is a tool to compare ROI of options between different
 tickers for different expiry dates. It is intended to help open 
 new cash secured put positions.
 
-##Commands
+## Commands
 
 currently it just takes in path to a configuration file
 
 ```
-cspfinder -config ./config.json
+./cspfinder -config ./config.json
 ```
 
 
@@ -53,7 +53,7 @@ cspfinder -config ./config.json
 | TSLA220318P00650000 | 650.00 | 50.05 | 25025.00             | 2022-03-18    | 5.00                  | 7.36              | 669.52 |
 *---------------------*--------*-------*----------------------*---------------*-----------------------*-------------------*--------*
 ```
-###Config.json
+### Config.json
 
 Configuration file to accept inputs for CSPFinder
 
