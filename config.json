@@ -1,0 +1,16 @@
+{
+  "symbolpricemap" :{
+    "AMD": 100.00,
+    "PLTR": 22.00,
+    "AMZN": 3400.00,
+    "TSLA": 650.00,
+    "GOOG": 2700.00,
+    "AAPL": 145.00
+  },
+  "totalcapital":340000.00,
+  "outputFormat":{
+    "groupByDate": true,
+    "groupBySymbol":false
+  }
+
+}
