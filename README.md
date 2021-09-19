@@ -1,7 +1,7 @@
 # CSPFinder
 
 
-CSPFinder is a tool to compare ROI of options between different
+CSPFinder is a tool to compare ROI of selling Cash Secure Put options between different
 tickers for different expiry dates. It is intended to help open 
 new cash secured put positions.
 
