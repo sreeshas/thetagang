@@ -25,6 +25,7 @@ archives:
       amd64: x86_64
     files:
       - config.json
+      - README.md
 
 checksum:
   name_template: 'checksums.txt'
